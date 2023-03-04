@@ -1,0 +1,5 @@
+train: D:\chepaijiance\License_yolov5\train\images
+val: D:\chepaijiance\License_yolov5\valid\images
+
+nc: 2
+names: ['license-plate', 'vehicle']
